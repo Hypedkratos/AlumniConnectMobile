@@ -1,0 +1,6 @@
+Colors for all components
+
+#FFECD6
+#4CB9E7
+#3559EO
+#0F2167
